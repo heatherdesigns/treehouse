@@ -6,3 +6,9 @@ name.rb
 times_iteration.rb
 until_loop.rb
 while_loops.rb
+block_arguments.rb
+block_examples.rb
+block_method.rb
+calling_blocks.rb
+my_array.rb
+simple_benchmarker.rb

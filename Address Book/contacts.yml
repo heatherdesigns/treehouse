@@ -1,0 +1,29 @@
+---
+- !ruby/object:Contact
+  phone_numbers: []
+  addresses: []
+  first_name: Heather
+  middle_name: Ann
+  last_name: Taylor
+- !ruby/object:Contact
+  phone_numbers: []
+  addresses: []
+  first_name: Heather
+  middle_name: A
+  last_name: Taylor
+- !ruby/object:Contact
+  phone_numbers:
+  - !ruby/object:PhoneNumber
+    kind: Cell
+    number: '9372227878'
+  addresses:
+  - !ruby/object:Address
+    kind: Home
+    street_1: 123 Main Street
+    street_2: ''
+    city: Troy
+    state: Ohio
+    postal_code: '45373'
+  first_name: Charles
+  middle_name: E
+  last_name: Taylor

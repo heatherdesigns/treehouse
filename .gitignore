@@ -12,3 +12,12 @@ block_method.rb
 calling_blocks.rb
 my_array.rb
 simple_benchmarker.rb
+namespace_laser_bots.rb
+simple_module.rb
+comparable_module.rb
+enumerable.rb
+fetcher.rb
+includer.rb
+math_module.rb
+extend.rb
+
